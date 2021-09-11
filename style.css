@@ -1,0 +1,23 @@
+body {
+  /* min-height: 2000px; */
+}
+.jumbotron {
+  padding-top: 6rem;
+  background: #e2edff;
+}
+
+#projects {
+  background: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+img .img-gallery {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
